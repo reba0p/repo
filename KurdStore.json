@@ -1,0 +1,31 @@
+{
+  "name": "KurdStore",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://reba0p.github.io/repo/",
+  "patreonURL": "",
+  "tintColor": "#00FFCC",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "My Example App",
+      "bundleIdentifier": "com.m472skt0ea.r8zyyqjgzh",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
